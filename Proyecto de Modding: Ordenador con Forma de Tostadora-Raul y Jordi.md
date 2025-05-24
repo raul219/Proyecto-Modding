@@ -1,8 +1,6 @@
 # Proyecto de Modding: Ordenador con Forma de Tostadora
 
-![image1](image1)
-
----
+![image](https://github.com/user-attachments/assets/b1379cc0-8ed7-4ff5-8ef1-0f4260211578)
 
 ## 1. Idea del Proyecto
 
@@ -28,7 +26,7 @@ El proyecto consiste en la creación de un ordenador personalizado (modding) cuy
 - **Cables, conectores y adaptadores necesarios**
 
 ### Materiales para el Modding:
-- **Caja de tostadora real o fabricada con paneles de aluminio/acero/plástico**
+- **Caja de tostadora fabricada con paneles de aluminio/acero/plástico**
 - **Paneles de acrílico o plexiglás** para ventanas o detalles
 - **Pintura en spray resistente al calor**
 - **Rejillas de ventilación**
@@ -43,7 +41,7 @@ El proyecto consiste en la creación de un ordenador personalizado (modding) cuy
 - **Vinilos decorativos o serigrafía**
 - **Luz LED para simular el calentamiento**
 
----
+![image](https://github.com/user-attachments/assets/582a7673-03ea-407d-b0c4-1bff71cedf81)
 
 ## 3. Herramientas Necesarias
 
@@ -73,4 +71,4 @@ El proyecto consiste en la creación de un ordenador personalizado (modding) cuy
 
 Este proyecto de modding es perfecto para entusiastas del bricolaje, el diseño y la informática, permitiendo crear un ordenador único que no solo funciona correctamente sino que también se convierte en el centro de atención de cualquier espacio. ¡Atrévete a construir tu propio PC-tostadora y lleva la creatividad al siguiente nivel!
 
----
+![image](https://github.com/user-attachments/assets/4ebcd122-81c9-4605-938c-faadc8f99e99)
